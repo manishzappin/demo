@@ -6,7 +6,7 @@ export default function ReactHookFormMini() {
   const [data, setData] = useState("");
  
   const onSubmit = (data) => {
-    setData(data)
+    setData(data) 
   }
 
   return (
