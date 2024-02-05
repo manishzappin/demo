@@ -21,7 +21,7 @@ function Counter() {
           Decrement
         </button>
         <button onClick={() => dispatch(counterSlice.actions.incrementBy2())}>
-          Increment By 2
+          Increment By 2 (TWO)
         </button>
 
        
